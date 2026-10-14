@@ -13,7 +13,7 @@ The dataset used in this project was the Online Shoppers Purchasing Intention Da
       * A “True” entry for this features means that when a user visited a website, there was a transaction that was made by the user
       * A “False” entry for this features means that when a user visited a website, there was no transaction that was made by the user
 * "Administrative" , “Administrative_Duration" , "Informational", "Informational_Duration", "ProductRelated", "ProductRelated_Duration"
-  * All of these features explain the types of websites visited by the user, and how long they spent on these pages
+  * All of these features explain the types of pages visited by the user, and how long they spent on these pages
 * "Bounce Rate", "Exit Rate",  "Page Value"
   * These features explain how a user leaves the website
 * “SpecialDay”, “Month”, “OperatingSystem”, “Browser”, “Region”, “TrafficType”, “VisitorType”, and “Weekend” 
